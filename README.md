@@ -4,4 +4,6 @@ Barfoot, T. D., & Furgale, P. T. (2014). Associating uncertainty with three-dime
 
 The code "main_unit_tests.m" verifies if some properties are satsified to validate the formulas.
 
+The code "SE3_UT_vs_BHC_approx.m" compares three method to propagate the covariance of a Lie group compound pose, as described in the latter reference.
+
 Do not hesitate to report any mistake !
